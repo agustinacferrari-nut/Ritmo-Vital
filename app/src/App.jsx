@@ -8,7 +8,7 @@ const CONFIG = {
     { id: 'pregnancy', label: 'Embarazo' },
     { id: 'postpartum_early', label: 'Postparto temprano (0-6 meses)' },
     { id: 'postpartum_late', label: 'Postparto tardio (6-18 meses)' },
-    { id: 'no_cycle', label: 'Sin ciclo / etapa hormonal especifica' },
+    { id: 'no_cycle', label: 'Sin ciclo o etapa hormonal especifica' },
     { id: 'general_balance', label: 'Equilibrio general' },
   ],
   questions: [
